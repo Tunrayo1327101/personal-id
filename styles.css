@@ -1,0 +1,19 @@
+body{
+    margin:20px;
+  }
+  .cardId{
+    width:150px;
+  }
+  .card{
+    padding:25px;
+    justify-content:space-around;
+    display:flex;
+    width:400px;
+    text-align:center;
+    border-bottom:6px solid #d8cefe;
+    background:#ddebf8;
+    color: #2b2839;
+    margin: 0 auto;
+    font-family: verdana, sans-serif;
+    
+  }
